@@ -17,7 +17,7 @@ import com.example.Model.Experiencias;
 import com.example.Service.ExperienciaService;
 
 
-@CrossOrigin(origins = "http://localhost:8080")
+@CrossOrigin(origins = "http://192.168.0.113:19006")
 @RestController
 public class ExperienciasController {
 
